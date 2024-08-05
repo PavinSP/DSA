@@ -1,0 +1,22 @@
+- Linear search is applicable to any kind of array, but binary search is only
+applicable to sorted arrays.
+
+Time Complexity: The measure of how the running time of an algorithm increases with
+the size of input data.
+
+Big O notation: (Order of)
+
+O(1): constant time
+O(log n): logarithmic time
+O(n): linear time
+O(n log n): linearithmic time
+O(n^2): quadratic time
+O(2^n): exponential time
+O(n!): factorial time
+
+Linear search:
+- Searching: O(n) - 5 values 5 steps, 100 values 100 steps.
+- Reading: O(1) - constant time no matter the size is.
+
+Binary search:
+- Searching: O(log n) - suppose 7 values 3 steps, when doubled (14 values) 4 steps.

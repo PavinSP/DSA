@@ -1,0 +1,9 @@
+Array:
+
+- Reading is easy in arrays because we know the index.
+- Searching is difficult because we don't know where the value is present (at which index).
+- Insertion is also difficult (except when we want to insert at last element).
+- Time complexity (General): no of steps it takes to run the program
+
+- Space complexity: less memory
+- Time complexity: less time
